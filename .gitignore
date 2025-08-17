@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+# build outputs (if any)
+dist/
+.out/
+.next/
+# env & local
+.env
+.env.*
+.vercel/
+# OS/IDE
+.DS_Store
+*.log
